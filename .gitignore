@@ -1,0 +1,17 @@
+#Gedit specific
+*~
+
+#Eclipse's specific
+.project
+.pydevproject
+.pydevproject.bak
+
+#PyCharm's specific
+.idea/
+
+#egg's specific
+*.egg-info
+
+#defaults
+*.pyc
+*.pyo
